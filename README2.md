@@ -1,16 +1,6 @@
 Татаринова Анастасия АЭ-21-22
-При поиске файлов студентов, фамилия которых состоит ровно из 6 символов были некоторые проблемы:
-Я оформила поиск с помощью ???????? (сюда входит 6 символов фамилии и два по имя и отчество)
-По итогам поиска были найдены "лишние файлы", т.к. один студент указал только фамилию без инициалов, а она у него ровно на 8 символов
-Прикрепила два варианта (в одном я не исправляла имя файла этого студента, во втором исправила)
-<img width="550" height="294" alt="image" src="https://github.com/user-attachments/assets/86ec30e7-62f7-4f8f-bda7-3aad04b85a59" />
-
-Скриншоты по созданию дирректорий:
-
-<img width="727" height="70" alt="image" src="https://github.com/user-attachments/assets/2f698fdd-3b35-49a6-9bf0-b703b042ef58" />
-<img width="744" height="119" alt="image" src="https://github.com/user-attachments/assets/a143d6e3-8952-4b27-8b5b-05f7f3edb8d3" />
-
-Создание дополнительного файла info_title.txt
-
-
-<img width="518" height="99" alt="image" src="https://github.com/user-attachments/assets/85d0b738-c434-460d-b51e-1579bac6a446" />
+<img width="565" height="167" alt="image" src="https://github.com/user-attachments/assets/6ea80a09-f3af-4685-82f5-2a789fdf94d1" />
+<img width="1280" height="166" alt="image" src="https://github.com/user-attachments/assets/f854e2ce-0ff6-4f93-a221-8d13fbdf7a1c" />
+<img width="885" height="309" alt="image" src="https://github.com/user-attachments/assets/420fcf38-6eb0-4aa2-8263-39de70c9d7d3" />
+<img width="545" height="153" alt="image" src="https://github.com/user-attachments/assets/fe8f2941-76d4-4623-964e-c008a1533ec2" />
+<img width="621" height="345" alt="image" src="https://github.com/user-attachments/assets/c89916b7-0746-4dce-9a77-cfb809d21442" />
